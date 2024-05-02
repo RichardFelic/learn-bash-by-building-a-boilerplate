@@ -281,3 +281,4 @@ find
 __vsc_prompt_cmd_original
 ls --color=auto
 rm --help
+rm -r fonts
