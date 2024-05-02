@@ -163,3 +163,5 @@ mv styles.css client/src
 find
 find client/src
 find client
+find help
+find --help
