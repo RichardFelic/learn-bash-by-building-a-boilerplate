@@ -269,3 +269,5 @@ mv freeCodeCamp client/assets/icons
 mv freeCodeCamp.svg client/assets/icons
 find
 mkdir client/assets/fonts
+__vsc_prompt_cmd_original
+touch client/assets/fonts/roboto-bold.woff
