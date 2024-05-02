@@ -194,3 +194,15 @@ ls --color=auto
 cd ../../..
 cd images
 ls --color=auto
+mv header.png website
+cd ..
+ls --color=auto
+ls --color=auto --LL
+ls --color=auto --all
+cd images
+ls --color=auto
+cd ..
+ls --color=auto
+cd images
+touch header.png
+mv header.png ..
