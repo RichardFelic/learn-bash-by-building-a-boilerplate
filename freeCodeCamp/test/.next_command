@@ -210,3 +210,7 @@ ls --color=auto
 cd ..
 ls --color=auto
 ls --color=auto
+find images
+cd client/assets/images
+cd ../../..
+find -name images
