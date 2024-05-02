@@ -221,3 +221,15 @@ mv ./images/footer.jpeg client/assets/images
 find
 ls --color=auto
 rmdir images
+ls --color=auto
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd images
+cd ../../..
+ls --color=auto
+rmdir website/images
+cd images
+ls --color=auto
+rm background.jpg
