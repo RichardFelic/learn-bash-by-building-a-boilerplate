@@ -215,3 +215,4 @@ cd client/assets/images
 cd ../../..
 find -name images
 mv header.png client/assets/images
+find -name header.png
