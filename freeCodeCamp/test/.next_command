@@ -245,3 +245,17 @@ cd ..
 rmdir website/images
 rmdir images
 ls --color=auto
+find -name assets
+mkdir icons client/assets
+cd client
+cd assets
+mkdir icons
+rmdir icons
+cd ../..
+mkdir client/assets icons
+mkdir ./client/assets icons
+mkdir icons ./client/assets
+mkdir icons /client/assets
+mkdir /client/assets icons
+mkdir /client/assets/icons
+mkdir client/assets/icons
