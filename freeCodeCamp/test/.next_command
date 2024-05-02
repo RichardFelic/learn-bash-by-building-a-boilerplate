@@ -179,3 +179,4 @@ ls --color=auto --all
 cd client
 __vsc_prompt_cmd_original
 mkdir assets
+cd assets
