@@ -142,3 +142,4 @@ ld
 ls --color=auto
 mv roboto.font roboto.woff
 ls --color=auto
+mv lato.font lato.ttf
