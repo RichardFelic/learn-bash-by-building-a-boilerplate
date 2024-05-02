@@ -169,3 +169,9 @@ find -name index.html
 find -name styles.css
 find -mame src
 find -name src
+ls --color=auto
+cd client
+pwd
+ls --color=auto
+cd ..
+find
