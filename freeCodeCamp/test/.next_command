@@ -175,3 +175,5 @@ pwd
 ls --color=auto
 cd ..
 find
+ls --color=auto --all
+cd client
