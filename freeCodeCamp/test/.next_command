@@ -69,3 +69,18 @@ __vsc_prompt_cmd_original
 ñs
 ls --color=auto
 pwd
+cd /
+pwd
+cd workspaces
+cd workspace
+pwd
+ñs
+ls --color=auto
+cd project
+ls --color=auto
+cd freeCodeCamp
+ls --color=auto
+cd node_modules
+ls --color=auto
+cd /workspace/project/freeCodeCamp/node_modules/has/src
+ls --color=auto
