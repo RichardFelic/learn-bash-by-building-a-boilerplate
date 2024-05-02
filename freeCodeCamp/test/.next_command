@@ -138,3 +138,5 @@ cd ..
 ls --color=auto
 rm header.png
 rm footer.jpeg
+ld
+ls --color=auto
