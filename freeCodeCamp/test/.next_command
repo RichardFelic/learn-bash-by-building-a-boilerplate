@@ -233,3 +233,14 @@ rmdir website/images
 cd images
 ls --color=auto
 rm background.jpg
+cd ..
+rmdir website/images
+rmdir images
+cd images
+ls --color=auto
+ls --color=auto --all
+rm website
+ls --color=auto
+cd ..
+rmdir website/images
+rmdir images
